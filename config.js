@@ -1,4 +1,6 @@
 const DIFFICULTY = 4;
 const MIME_RATE = 3000;
+const INITIAL_BALANCE = 500;
+const MINING_REWARD = 50;
 
-module.exports = { DIFFICULTY, MIME_RATE };
+module.exports = { DIFFICULTY, MIME_RATE, INITIAL_BALANCE, MINING_REWARD };
